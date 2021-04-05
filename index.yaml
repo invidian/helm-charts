@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  kube-apiserver:
+  - apiVersion: v2
+    appVersion: 1.20.5
+    created: "2021-04-05T18:04:41.623176117Z"
+    description: kube-apiserver Helm chart.
+    digest: 7aa0ca9d57ea65c3adf24123a86de11408f78f9734e9246e7df102f70abcef9c
+    icon: https://flexkube.github.io/assets/logo.png
+    maintainers:
+    - email: mgozdekof@gmail.com
+      name: invidian
+    name: kube-apiserver
+    type: application
+    urls:
+    - https://github.com/invidian/helm-charts/releases/download/kube-apiserver-0.3.5/kube-apiserver-0.3.5.tgz
+    version: 0.3.5
+generated: "2021-04-05T18:04:41.434830347Z"
